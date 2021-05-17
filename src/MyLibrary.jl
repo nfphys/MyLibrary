@@ -1,6 +1,7 @@
 module MyLibrary
 
 
+greet() = println("HelloWorld")
 
 
 """
