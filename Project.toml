@@ -1,0 +1,4 @@
+name = "MyLibrary"
+uuid = "fe822484-3201-4c81-8a17-418f766d8aa7"
+authors = ["fumi "]
+version = "0.1.0"
